@@ -39,10 +39,10 @@ Verify that each table has the correct data by running a SELECT statement for ea
 width=100% height=100%>
 
 <img src="https://github.com/tvaughn905/Crowdfunding_ETL/blob/main/images/category%20table.PNG" 
-width=100% height=100%>
+width=60% height=60%>
 
 <img src="https://github.com/tvaughn905/Crowdfunding_ETL/blob/main/images/contacts%20table.PNG" 
-width=100% height=100%>
+width=60% height=60%>
 
 <img src="https://github.com/tvaughn905/Crowdfunding_ETL/blob/main/images/subcategory%20table.PNG" 
-width=100% height=100%>
+width=60% height=60%>
