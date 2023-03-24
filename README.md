@@ -29,6 +29,7 @@ Create a new Postgres database, named crowdfunding_db.
 Using the database schema, create the tables in the correct order to handle the foreign keys.
 
 Verify the table creation by running a SELECT statement for each table.
+<img src="https://github.com/tvaughn905/Crowdfunding_ETL/blob/main/images/Verifying%20tables%20exist.PNG" width=100% height=100%>![image](https://user-
 
 Import each CSV file into its corresponding SQL table.
 
